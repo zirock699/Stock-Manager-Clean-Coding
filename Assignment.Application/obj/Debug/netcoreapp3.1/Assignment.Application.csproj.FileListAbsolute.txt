@@ -1,0 +1,73 @@
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfo.cs
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.deps.json
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CopyComplete
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Improved (1)\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.deps.json
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfo.cs
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CopyComplete
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.deps.json
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.pdb
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfo.cs
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CopyComplete
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\admin\Downloads\Assignment1_StartingPoint_Refactored (1)\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.pdb
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.deps.json
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.pdb
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.dll
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.dll
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.pdb
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.pdb
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csprojAssemblyReference.cache
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfoInputs.cache
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfo.cs
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CopyComplete
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\Hichem\Desktop\Assignment1_StartingPoint_Refactored\Assignment1_StartingPoint_Improved\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.pdb
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.deps.json
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Application.pdb
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.dll
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.dll
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Domain.pdb
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\bin\Debug\netcoreapp3.1\Assignment.Infrastruction.pdb
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csprojAssemblyReference.cache
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfoInputs.cache
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.AssemblyInfo.cs
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.csproj.CopyComplete
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.dll
+C:\Users\Hichem\OneDrive - Staffordshire University\Clean coding\Drafts\CCCP V2\Assignment1_StartingPoint_Improved\Assignment.Application\obj\Debug\netcoreapp3.1\Assignment.Application.pdb
